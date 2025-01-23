@@ -1,10 +1,10 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - testimonials-grid-section
 ## Welcome! 👋
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Netlify Link](https://qrcode-vitthal.netlify.app/)
+- Solution URL: [Github](https://github.com/akash-agasur/testimonials-grid-section-main)
+- Live Site URL: [vercel Link](https://testimonials-grid-section-main-ten-beta.vercel.app/)
 
 ### ScreenShot
 
@@ -13,7 +13,7 @@
 
 ### Author
 
-- [Vitthal-Korvan](https://www.linkedin.com/in/vitthal-korvan/)
+- [Vitthal-Korvan](https://www.linkedin.com/in/akash--agasur/)
 
 
 ### Built with
